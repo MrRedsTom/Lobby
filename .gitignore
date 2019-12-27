@@ -1,0 +1,10 @@
+# Default ignored files
+/Lobby.iws
+
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/java/main/
+/buildSrc/.gradle/
+/buildSrc/build/
+/buildSrc/build/classes/java/main/

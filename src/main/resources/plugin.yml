@@ -1,0 +1,7 @@
+name: Lobby
+version: @version@
+main: fr.novalya.lobby.Lobby
+api-version: 1.13
+authors: [RedsTom]
+commands:
+  inv:
